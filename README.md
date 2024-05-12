@@ -11,7 +11,7 @@ This Python script allows you to download videos from YouTube channels using the
 
 1. Clone or download the repository to your local machine
 
-`git clone https://github.com/your_username/youtube-rss-feed-downloader.git`
+`git clone git@github.com:Kaya-Sem/local_youtube.git`
 
 2. Install the required packages
 
@@ -23,7 +23,9 @@ pip install bloat bloat and more bloat
 
 1. Create a text file containing a list of URLs, each representing a YouTube channel feed. Each URL should be on a separate line and should include the channel ID appended to the base URL.
 
-`https://www.youtube.com/feeds/videos.xml?channel_id=`
+```
+https://www.youtube.com/feeds/videos.xml?channel_id=
+```
 
 For example:
 
