@@ -30,8 +30,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=
 For example:
 
 ```
-https://www.youtube.com/feeds/videos.xml?channel_id=UCaiVt4r6YLPzJVgr7pOmD6w
-https://www.youtube.com/feeds/videos.xml?channel_id=UCaMyDu-tZc2kfRfzvI54I0g
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV9s_u7uoGoEKFRjiRp8p2Q
+https://www.youtube.com/feeds/videos.xml?channel_id=UClHVl2N3jPEbkNJVx-ItQIQ
 ```
 
 2. Run the script and provide the path to the text file as a command-line argument:
