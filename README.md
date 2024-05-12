@@ -13,11 +13,13 @@ This Python script allows you to download videos from YouTube channels using the
 
 `git clone git@github.com:Kaya-Sem/local_youtube.git`
 
-2. Install the required packages
+2. Install the required packages:
 
-pip install bloat bloat and more bloat
+`pip install -r requirements.txt`
 
-3. pip install yt-dlp
+3. Install **yt-dlp**:
+
+`pip install yt-dlp`
 
 ## Usage
 
