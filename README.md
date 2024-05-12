@@ -36,4 +36,4 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCaMyDu-tZc2kfRfzvI54I0g
 
 `python main.py path/to/url_file.txt`
 
-This will fetch the latest videos from each channel in the URL file and download them using `ỳt-dlp`
+This will fetch the latest videos from each channel in the URL file and download them using `yt-dlp`
