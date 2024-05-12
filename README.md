@@ -1,4 +1,4 @@
-# YouTube Channel RSS Feed Downloader
+# ⏯️ YouTube Channel RSS Feed Downloader
 
 This Python script allows you to download videos from YouTube channels using their RSS feeds. By providing a list of channel URLs with their corresponding channel IDs, the script fetches the latest videos from each channel and downloads them using the yt-dlp command-line tool.
 
@@ -32,8 +32,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=
 For example:
 
 ```
-https://www.youtube.com/feeds/videos.xml?channel_id=UCaiVt4r6YLPzJVgr7pOmD6w
-https://www.youtube.com/feeds/videos.xml?channel_id=UCaMyDu-tZc2kfRfzvI54I0g
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV9s_u7uoGoEKFRjiRp8p2Q
+https://www.youtube.com/feeds/videos.xml?channel_id=UClHVl2N3jPEbkNJVx-ItQIQ
 ```
 
 2. Run the script and provide the path to the text file as a command-line argument:
