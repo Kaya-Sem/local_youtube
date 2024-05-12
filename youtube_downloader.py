@@ -2,6 +2,14 @@ import argparse
 import feedparser
 import subprocess
 
+# https://github.com/yt-dlp/yt-dlp
+#
+# Author: Kaya-Sem
+#
+#
+# simple script that can read a youtube creator's rss and downloads their most recent videos
+
+
 def download_video(url):
     subprocess.run(["yt-dlp", url])
 
